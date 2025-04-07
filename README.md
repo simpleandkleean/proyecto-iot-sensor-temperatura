@@ -41,7 +41,7 @@ Este proyecto consiste en un sistema IoT que monitorea y envía datos de tempera
    # SERVICIO
    BALLERINA_SERVICE=url_del_endpoint_de_ballerina
 
-   Descripción de las variables:
+   
 
 Descripción de las Variables
 
