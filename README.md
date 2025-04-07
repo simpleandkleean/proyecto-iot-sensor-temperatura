@@ -55,27 +55,27 @@ Descripción de las Variables
 
 - BALLERINA_SERVICE: La URL del endpoint de Ballerina que procesará los datos.
 
-Nota de Seguridad
+Nota de Seguridad:
 Evita compartir el contenido del archivo .env públicamente, ya que puede contener información sensible que podría facilitar vulneraciones al sistema.
 
-Bot de Telegram
+Bot de Telegram:
 Utiliza BotFather en Telegram para crear y gestionar tu bot. Una vez creado, obtén el token del bot y colócalo en tu archivo .env.
 
 Para obtener tu chat ID, busca el bot llamado UserInfoBot en Telegram. Este bot te facilitará tu ID de chat, que deberás pasar como parámetro en tu archivo .env, ya que será la cuenta de Telegram que recibirá las alertas.
 
-Ballerina
+Ballerina:
 Asegúrate de arrancar el servicio de Ballerina antes de ejecutar el script de Python, ya que el script está diseñado para enviar datos a este servicio.
 
-Uso
+Uso:
 El sistema enviará alertas a través de Telegram cuando la temperatura sea inferior a 20°C.
 
 Los datos se envían a Ballerina para su procesamiento adicional y posible envío a otros servicios.
 
-Advertencia
+Advertencia:
 Este proyecto está diseñado con fines educativos para aprender sobre el funcionamiento de IoT y el flujo de datos. No se recomienda su uso en entornos profesionales, ya que aún se requieren medidas de seguridad iniciales y podría no cumplir con todas las necesidades de producción.
 
-Contribuciones
+Contribuciones:
 ¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, por favor, abre un issue o envía un pull request.
 
-Licencia
+Licencia:
 Este proyecto está bajo la MIT License. Consulta el archivo LICENSE para más detalles.
