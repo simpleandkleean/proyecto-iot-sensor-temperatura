@@ -1,4 +1,4 @@
-#SPANISH
+# SPANISH
 # Proyecto IoT de Sensor de Temperatura
 
 Este proyecto consiste en un sistema IoT que monitorea y envía datos de temperatura y humedad. Utiliza sensores conectados a un microcontrolador, gestionando el flujo de datos de manera eficiente.
@@ -78,7 +78,7 @@ Los datos también se envían a Ballerina para su procesamiento adicional o inte
 Este proyecto está diseñado con fines educativos, para aprender sobre IoT y flujos de datos.
 No se recomienda su uso en entornos profesionales, ya que requiere medidas de seguridad adicionales y podría no cumplir con estándares de producción.
 
-#ENGLISH
+# ENGLISH
 
 # IoT Temperature Sensor Project
 
